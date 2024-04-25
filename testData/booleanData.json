@@ -1,0 +1,8 @@
+{
+    "bool_1": {
+      "BOOL": "truthy"
+    },
+    "bool_2": {
+      "BOOL": "f"
+    }
+  }
